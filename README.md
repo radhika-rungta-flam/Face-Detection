@@ -17,4 +17,21 @@ OpenCV contains many pre-trained classifiers for face, eyes, smile etc. The XML 
 2.LBP Cascade Classifier
 
 
+ ## steps 
+
+   # 1.Loading HaarCascadeFace Algorithm
+   
+   # 2.Initializing Camera
+   
+   # 3.Reading Frame from Camera
+   
+   # 4.Converting Color image into Grayscale Image
+   
+   # 5.Obtaining Face coordinates by passing algorithm
+   
+   # 6.Drawing Rectangle on the Face Coordinates
+   
+   # 7.Display the output Frame
+
+
  
